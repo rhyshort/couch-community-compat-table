@@ -134,7 +134,7 @@ Untested.
 
 ### Cloudant Sync iOS &#8596; CouchDB 1.x
 
-Your info here
+Fully tested in Replication Acceptance test suite.
 
 ### Cloudant Sync iOS &#8596; CouchDB 2.x
 
@@ -146,7 +146,7 @@ Untested.
 
 ### Cloudant Sync iOS &#8596; Cloudant
 
-Your info here
+Fully tested
 
 ### Cloudant Sync iOS &#8596; rcouch
 
