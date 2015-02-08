@@ -110,7 +110,7 @@ Your info here
 
 ### Cloudant Sync Android &#8596; CouchDB 1.x
 
-Fully tested, (integration test suite)[https://travis-ci.org/cloudant/sync-android]
+Fully tested, [integration test suite](https://travis-ci.org/cloudant/sync-android)
 
 ### Cloudant Sync Android &#8596; CouchDB 2.x
 
