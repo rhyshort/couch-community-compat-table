@@ -138,7 +138,7 @@ Fully tested in Replication Acceptance test suite.
 
 ### Cloudant Sync iOS &#8596; CouchDB 2.x
 
-Your info here
+Fully tested in Replication Acceptance test suite.
 
 ### Cloudant Sync iOS &#8596; Couchbase Sync Gateway
 
